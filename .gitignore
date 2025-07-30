@@ -1,1 +1,9 @@
 /data_raw/
+/data_processed/
+/.idea/
+/reports/Delete_01需求文本.ipynb
+/reports/Delete_02需求文本.ipynb
+/reports/总流程.md
+/scripts/03_Initial_Cleaning_and_Lemmatization.ipynb
+/scripts/03_origin.ipynb
+/scripts/Delete_02_Entity_Phrase_Solidification.ipynb
