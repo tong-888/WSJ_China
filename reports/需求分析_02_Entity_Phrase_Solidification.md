@@ -138,22 +138,22 @@
     1.  **创建专家规则文件：** 在项目文件夹中，创建一个新的、独立的CSV文件，命名为 `expert_rules.csv`。
     2.  **定义文件结构：** 这个CSV文件包含三列：`phrase_to_merge`, `standard_form`, `rule_type`。
     3.  **手动填写规则：** 在这个文件中，主动添加那些必须存在的合并规则。这通常包括以下几类：
-        *   **缩写与全称 (Acronyms)：**
+        *   **缩写与全称：**
             *   `phrase_to_merge`: `pboc`, `standard_form`: `peoples_bank_of_china`, `rule_type`: `Acronym`
             *   `phrase_to_merge`: `csrc`, `standard_form`: `china_securities_regulatory_commission`, `rule_type`: `Acronym`
-        *   **不同名称的统一 (Synonyms)：**
+        *   **不同名称的统一：**
             *   `phrase_to_merge`: `ministry of commerce`, `standard_form`: `mofcom`, `rule_type`: `Synonym` (假设选择缩写为标准形式)
-        *   **概念性聚类 (Conceptual Clustering)：**
+        *   **概念性聚类：**
             *   `phrase_to_merge`: `alibaba`, `standard_form`: `china_tech_giant`, `rule_type`: `Concept`
             *   `phrase_to_merge`: `tencent`, `standard_form`: `china_tech_giant`, `rule_type`: `Concept`
-        *   **常见的拼写变体/错误 (Typos/Variants)：**
+        *   **常见的拼写变体/错误：（可能忽略这个）**
             *   `phrase_to_merge`: `shenzen`, `standard_form`: `shenzhen`, `rule_type`: `Typo`
 *   **阶段产出：** 一个完全手动控制的、高优先级的规则文件：`expert_rules.csv`。
 *   **预估时间：** 这取决于知识储备和研究深度。初次创建可能需要 **1 - 3 小时**，后续可以随时回来补充。
 
 ---
 
-### **阶段四：规则生成与最终应用 (The Final Application)**
+### **阶段四：规则生成与最终应用**
 
 **此阶段总目标：** 将来自**两个来源**（算法发现+人工审核，以及专家手动创建）的规则合并，并应用到文本上，完成最终的“实体固化”。
 
