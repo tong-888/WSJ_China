@@ -1,0 +1,3139 @@
+[
+  {
+    "keyword": "Xi Jinping",
+    "aliases": [
+      "Xi Jinping"
+    ],
+    "type": "Person",
+    "category": "Politics",
+    "description": "习近平 (中国共产党中央委员会总书记)",
+    "relevance_tier": 5,
+    "relevance_score": 1.0
+  },
+  {
+    "keyword": "Li Qiang",
+    "aliases": [
+      "Li Qiang"
+    ],
+    "type": "Person",
+    "category": "Politics",
+    "description": "李强 (现任国务院总理)",
+    "relevance_score": 1.0,
+    "relevance_tier": 5
+  },
+  {
+    "keyword": "Xie Feng",
+    "aliases": [
+      "Xie Feng"
+    ],
+    "type": "Person",
+    "category": "Diplomacy",
+    "description": "谢锋 (现任中国驻美国大使)",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Cui Tiankai",
+    "aliases": [
+      "Cui Tiankai"
+    ],
+    "type": "Person",
+    "category": "Diplomacy",
+    "description": "崔天凯 (前中国驻美国大使)",
+    "relevance_score": 0.7,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Yang Jiechi",
+    "aliases": [
+      "Yang Jiechi"
+    ],
+    "type": "Person",
+    "category": "Diplomacy",
+    "description": "杨洁篪 (前中国驻美国大使+前中央外事办主任)",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Wang Yi",
+    "aliases": [
+      "Wang Yi"
+    ],
+    "type": "Person",
+    "category": "Diplomacy",
+    "description": "王毅 (现任外交部长)",
+    "relevance_score": 1.0,
+    "relevance_tier": 5
+  },
+  {
+    "keyword": "Hua Chunying",
+    "aliases": [
+      "Hua Chunying"
+    ],
+    "type": "Person",
+    "category": "Diplomacy",
+    "description": "华春莹 (外交部副部长)",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Zhao Lijian",
+    "aliases": [
+      "Zhao Lijian"
+    ],
+    "type": "Person",
+    "category": "Diplomacy",
+    "description": "赵立坚 (前外交部发言人)",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Qin Gang",
+    "aliases": [
+      "Qin Gang"
+    ],
+    "type": "Person",
+    "category": "Diplomacy",
+    "description": "秦刚 (前外交部长)",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Wang Huning",
+    "aliases": [
+      "Wang Huning"
+    ],
+    "type": "Person",
+    "category": "Politics",
+    "description": "王沪宁 (现任全国政协主席)",
+    "relevance_score": 1.0,
+    "relevance_tier": 5
+  },
+  {
+    "keyword": "Zhao Leji",
+    "aliases": [
+      "Zhao Leji"
+    ],
+    "type": "Person",
+    "category": "Politics",
+    "description": "赵乐际 (现任全国人大常委会委员长)",
+    "relevance_score": 1.0,
+    "relevance_tier": 5
+  },
+  {
+    "keyword": "Ding Xuexiang",
+    "aliases": [
+      "Ding Xuexiang"
+    ],
+    "type": "Person",
+    "category": "Politics",
+    "description": "丁薛祥 (现任国务院副总理)",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Cai Qi",
+    "aliases": [
+      "Cai Qi"
+    ],
+    "type": "Person",
+    "category": "Politics",
+    "description": "蔡奇 (现任中央书记处书记)",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Li Xi",
+    "aliases": [
+      "Li Xi"
+    ],
+    "type": "Person",
+    "category": "Politics",
+    "description": "李希 (现任中纪委书记+政治局常委)",
+    "relevance_score": 1.0,
+    "relevance_tier": 5
+  },
+  {
+    "keyword": "Liu He",
+    "aliases": [
+      "Liu He"
+    ],
+    "type": "Person",
+    "category": "Finance",
+    "description": "刘鹤 (前国务院副总理+关键经济顾问)",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Han Zheng",
+    "aliases": [
+      "Han Zheng"
+    ],
+    "type": "Person",
+    "category": "Politics",
+    "description": "韩正 (现任国家副主席)",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Wang Qishan",
+    "aliases": [
+      "Wang Qishan"
+    ],
+    "type": "Person",
+    "category": "Politics",
+    "description": "王岐山 (前国家副主席)",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Hu Jintao",
+    "aliases": [
+      "Hu Jintao"
+    ],
+    "type": "Person",
+    "category": "Politics",
+    "description": "胡锦涛 (前国家主席)",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Jiang Zemin",
+    "aliases": [
+      "Jiang Zemin"
+    ],
+    "type": "Person",
+    "category": "Politics",
+    "description": "江泽民 (前国家主席)",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Deng Xiaoping",
+    "aliases": [
+      "Deng Xiaoping"
+    ],
+    "type": "Person",
+    "category": "History",
+    "description": "邓小平 (改革开放总设计师)",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Mao Zedong",
+    "aliases": [
+      "Mao Zedong",
+      "Mao Tse-tung"
+    ],
+    "type": "Person",
+    "category": "History",
+    "description": "毛泽东",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Zhou Enlai",
+    "aliases": [
+      "Zhou Enlai"
+    ],
+    "type": "Person",
+    "category": "History",
+    "description": "周恩来 (前国务院总理)",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Zhu Rongji",
+    "aliases": [
+      "Zhu Rongji"
+    ],
+    "type": "Person",
+    "category": "Politics",
+    "description": "朱镕基 (前国务院总理)",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Wen Jiabao",
+    "aliases": [
+      "Wen Jiabao"
+    ],
+    "type": "Person",
+    "category": "Politics",
+    "description": "温家宝 (前国务院总理)",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Li Keqiang",
+    "aliases": [
+      "Li Keqiang"
+    ],
+    "type": "Person",
+    "category": "Politics",
+    "description": "李克强 (前国务院总理)",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Li Peng",
+    "aliases": [
+      "Li Peng"
+    ],
+    "type": "Person",
+    "category": "History",
+    "description": "李鹏 (前国务院总理)",
+    "relevance_score": 0.7,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "John Lee Ka-chiu",
+    "aliases": [
+      "John Lee Ka-chiu",
+      "John Lee"
+    ],
+    "type": "Person",
+    "category": "Politics",
+    "description": "李家超 (现任香港特别行政区行政长官)",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Carrie Lam",
+    "aliases": [
+      "Carrie Lam"
+    ],
+    "type": "Person",
+    "category": "Politics",
+    "description": "林郑月娥 (前香港特别行政区行政长官)",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Tsai Ing-wen",
+    "aliases": [
+      "Tsai Ing-wen"
+    ],
+    "type": "Person",
+    "category": "Politics",
+    "description": "蔡英文",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Ma Ying-jeou",
+    "aliases": [
+      "Ma Ying-jeou"
+    ],
+    "type": "Person",
+    "category": "Politics",
+    "description": "马英九",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Dalai Lama",
+    "aliases": [
+      "Dalai Lama"
+    ],
+    "type": "Person",
+    "category": "Politics",
+    "description": "达赖喇嘛",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Jack Ma",
+    "aliases": [
+      "Jack Ma",
+      "Ma Yun"
+    ],
+    "type": "Person",
+    "category": "Business",
+    "description": "马云 (阿里巴巴集团创始人)",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Pony Ma",
+    "aliases": [
+      "Pony Ma",
+      "Ma Huateng"
+    ],
+    "type": "Person",
+    "category": "Business",
+    "description": "马化腾 (腾讯公司创始人)",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Ren Zhengfei",
+    "aliases": [
+      "Ren Zhengfei"
+    ],
+    "type": "Person",
+    "category": "Business",
+    "description": "任正非 (华为公司创始人)",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Meng Wanzhou",
+    "aliases": [
+      "Meng Wanzhou"
+    ],
+    "type": "Person",
+    "category": "Business",
+    "description": "孟晚舟 (华为高管)",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Robin Li",
+    "aliases": [
+      "Robin Li",
+      "Li Yanhong"
+    ],
+    "type": "Person",
+    "category": "Business",
+    "description": "李彦宏 (百度公司创始人)",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Lei Jun",
+    "aliases": [
+      "Lei Jun"
+    ],
+    "type": "Person",
+    "category": "Business",
+    "description": "雷军 (小米集团创始人)",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Zhang Yiming",
+    "aliases": [
+      "Zhang Yiming"
+    ],
+    "type": "Person",
+    "category": "Business",
+    "description": "张一鸣 (字节跳动创始人)",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Colin Huang",
+    "aliases": [
+      "Colin Huang",
+      "Huang Zheng"
+    ],
+    "type": "Person",
+    "category": "Business",
+    "description": "黄峥 (拼多多创始人)",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Wang Chuanfu",
+    "aliases": [
+      "Wang Chuanfu"
+    ],
+    "type": "Person",
+    "category": "Business",
+    "description": "王传福 (比亚迪股份有限公司创始人)",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Zhong Shanshan",
+    "aliases": [
+      "Zhong Shanshan"
+    ],
+    "type": "Person",
+    "category": "Business",
+    "description": "钟睒睒 (农夫山泉创始人)",
+    "relevance_score": 0.7,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Hui Ka Yan",
+    "aliases": [
+      "Hui Ka Yan",
+      "Xu Jiayin"
+    ],
+    "type": "Person",
+    "category": "Business",
+    "description": "许家印 (恒大集团创始人)",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Pan Gongsheng",
+    "aliases": [
+      "Pan Gongsheng"
+    ],
+    "type": "Person",
+    "category": "Finance",
+    "description": "潘功胜 (现任中国人民银行行长)",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Yi Gang",
+    "aliases": [
+      "Yi Gang"
+    ],
+    "type": "Person",
+    "category": "Finance",
+    "description": "易纲 (前中国人民银行行长)",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Zhou Xiaochuan",
+    "aliases": [
+      "Zhou Xiaochuan"
+    ],
+    "type": "Person",
+    "category": "Finance",
+    "description": "周小川 (前中国人民银行行长)",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Wu Qing",
+    "aliases": [
+      "Wu Qing"
+    ],
+    "type": "Person",
+    "category": "Finance",
+    "description": "吴清 (现任中国证监会主席)",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Yi Huiman",
+    "aliases": [
+      "Yi Huiman"
+    ],
+    "type": "Person",
+    "category": "Finance",
+    "description": "易会满 (前中国证监会主席)",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Yao Ming",
+    "aliases": [
+      "Yao Ming"
+    ],
+    "type": "Person",
+    "category": "Sports",
+    "description": "姚明 (篮球运动员)",
+    "relevance_score": 0.4,
+    "relevance_tier": 2
+  },
+  {
+    "keyword": "Eileen Gu",
+    "aliases": [
+      "Eileen Gu",
+      "Gu Ailing"
+    ],
+    "type": "Person",
+    "category": "Sports",
+    "description": "谷爱凌 (自由式滑雪运动员)",
+    "relevance_score": 0.5,
+    "relevance_tier": 2
+  },
+  {
+    "keyword": "Lang Lang",
+    "aliases": [
+      "Lang Lang"
+    ],
+    "type": "Person",
+    "category": "Culture",
+    "description": "郎朗 (钢琴家)",
+    "relevance_score": 0.4,
+    "relevance_tier": 2
+  },
+  {
+    "keyword": "Jackie Chan",
+    "aliases": [
+      "Jackie Chan"
+    ],
+    "type": "Person",
+    "category": "Culture",
+    "description": "成龙 (演员+动作明星)",
+    "relevance_score": 0.4,
+    "relevance_tier": 2
+  },
+  {
+    "keyword": "Zhang Yimou",
+    "aliases": [
+      "Zhang Yimou"
+    ],
+    "type": "Person",
+    "category": "Culture",
+    "description": "张艺谋 (导演)",
+    "relevance_score": 0.3,
+    "relevance_tier": 2
+  },
+  {
+    "keyword": "Ang Lee",
+    "aliases": [
+      "Ang Lee"
+    ],
+    "type": "Person",
+    "category": "Culture",
+    "description": "李安 (导演)",
+    "relevance_score": 0.3,
+    "relevance_tier": 2
+  },
+  {
+    "keyword": "People's Bank of China",
+    "aliases": [
+      "People's Bank of China",
+      "PBOC",
+      "PBoC"
+    ],
+    "type": "Institution",
+    "category": "Finance",
+    "description": "中国人民银行 (央行)",
+    "relevance_score": 1.0,
+    "relevance_tier": 5
+  },
+  {
+    "keyword": "China Securities Regulatory Commission",
+    "aliases": [
+      "China Securities Regulatory Commission",
+      "CSRC"
+    ],
+    "type": "Institution",
+    "category": "Finance",
+    "description": "中国证券监督管理委员会 (证监会)",
+    "relevance_score": 1.0,
+    "relevance_tier": 5
+  },
+  {
+    "keyword": "State Administration of Foreign Exchange",
+    "aliases": [
+      "State Administration of Foreign Exchange",
+      "SAFE"
+    ],
+    "type": "Institution",
+    "category": "Finance",
+    "description": "国家外汇管理局",
+    "relevance_score": 1.0,
+    "relevance_tier": 5
+  },
+  {
+    "keyword": "National Development and Reform Commission",
+    "aliases": [
+      "National Development and Reform Commission",
+      "NDRC"
+    ],
+    "type": "Institution",
+    "category": "Government",
+    "description": "国家发展和改革委员会 (发改委)",
+    "relevance_score": 1.0,
+    "relevance_tier": 5
+  },
+  {
+    "keyword": "State Council",
+    "aliases": [
+      "State Council"
+    ],
+    "type": "Institution",
+    "category": "Government",
+    "description": "国务院",
+    "relevance_score": 1.0,
+    "relevance_tier": 5
+  },
+  {
+    "keyword": "Ministry of Finance",
+    "aliases": [
+      "Ministry of Finance",
+      "MOF"
+    ],
+    "type": "Institution",
+    "category": "Government",
+    "description": "财政部",
+    "relevance_score": 1.0,
+    "relevance_tier": 5
+  },
+  {
+    "keyword": "Ministry of Commerce",
+    "aliases": [
+      "Ministry of Commerce",
+      "MOFCOM"
+    ],
+    "type": "Institution",
+    "category": "Government",
+    "description": "商务部",
+    "relevance_score": 1.0,
+    "relevance_tier": 5
+  },
+  {
+    "keyword": "Ministry of Foreign Affairs",
+    "aliases": [
+      "Ministry of Foreign Affairs",
+      "MOFA",
+      "Chinese Foreign Ministry"
+    ],
+    "type": "Institution",
+    "category": "Government",
+    "description": "外交部",
+    "relevance_score": 1.0,
+    "relevance_tier": 5
+  },
+  {
+    "keyword": "Ministry of Industry and Information Technology",
+    "aliases": [
+      "Ministry of Industry and Information Technology",
+      "MIIT"
+    ],
+    "type": "Institution",
+    "category": "Government",
+    "description": "工业和信息化部 (工信部)",
+    "relevance_score": 1.0,
+    "relevance_tier": 5
+  },
+  {
+    "keyword": "Cyberspace Administration of China",
+    "aliases": [
+      "Cyberspace Administration of China",
+      "CAC"
+    ],
+    "type": "Institution",
+    "category": "Government",
+    "description": "国家互联网信息办公室 (网信办)",
+    "relevance_score": 1.0,
+    "relevance_tier": 5
+  },
+  {
+    "keyword": "State-owned Assets Supervision and Administration Commission",
+    "aliases": [
+      "State-owned Assets Supervision and Administration Commission",
+      "SASAC"
+    ],
+    "type": "Institution",
+    "category": "Government",
+    "description": "国务院国有资产监督管理委员会 (国资委)",
+    "relevance_score": 1.0,
+    "relevance_tier": 5
+  },
+  {
+    "keyword": "Chinese Communist Party",
+    "aliases": [
+      "Chinese Communist Party",
+      "CCP",
+      "Communist Party of China",
+      "CPC",
+      "Communist Party"
+    ],
+    "type": "Institution",
+    "category": "Politics",
+    "description": "中国共产党",
+    "relevance_score": 1.0,
+    "relevance_tier": 5
+  },
+  {
+    "keyword": "National People's Congress",
+    "aliases": [
+      "National People's Congress",
+      "NPC"
+    ],
+    "type": "Institution",
+    "category": "Politics",
+    "description": "全国人民代表大会",
+    "relevance_score": 1.0,
+    "relevance_tier": 5
+  },
+  {
+    "keyword": "Chinese People's Political Consultative Conference",
+    "aliases": [
+      "Chinese People's Political Consultative Conference",
+      "CPPCC"
+    ],
+    "type": "Institution",
+    "category": "Politics",
+    "description": "中国人民政治协商会议 (全国政协)",
+    "relevance_score": 1.0,
+    "relevance_tier": 5
+  },
+  {
+    "keyword": "People's Liberation Army",
+    "aliases": [
+      "People's Liberation Army",
+      "PLA",
+      "Chinese military"
+    ],
+    "type": "Institution",
+    "category": "Military",
+    "description": "中国人民解放军",
+    "relevance_score": 1.0,
+    "relevance_tier": 5
+  },
+  {
+    "keyword": "Asian Infrastructure Investment Bank",
+    "aliases": [
+      "Asian Infrastructure Investment Bank",
+      "AIIB"
+    ],
+    "type": "Institution",
+    "category": "Finance",
+    "description": "亚洲基础设施投资银行",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Shanghai Cooperation Organization",
+    "aliases": [
+      "Shanghai Cooperation Organization",
+      "SCO"
+    ],
+    "type": "Institution",
+    "category": "Geopolitics",
+    "description": "上海合作组织",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "BRICS",
+    "aliases": [
+      "BRICS"
+    ],
+    "type": "Institution",
+    "category": "Geopolitics",
+    "description": "金砖国家",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Alibaba",
+    "aliases": [
+      "Alibaba",
+      "Alibaba Group Holding"
+    ],
+    "type": "Company",
+    "category": "Technology",
+    "description": "阿里巴巴",
+    "relevance_score": 1.0,
+    "relevance_tier": 5
+  },
+  {
+    "keyword": "Tencent",
+    "aliases": [
+      "Tencent",
+      "Tencent Holdings"
+    ],
+    "type": "Company",
+    "category": "Technology",
+    "description": "腾讯",
+    "relevance_score": 1.0,
+    "relevance_tier": 5
+  },
+  {
+    "keyword": "Huawei",
+    "aliases": [
+      "Huawei",
+      "Huawei Investment & Holding"
+    ],
+    "type": "Company",
+    "category": "Technology",
+    "description": "华为",
+    "relevance_score": 1.0,
+    "relevance_tier": 5
+  },
+  {
+    "keyword": "ByteDance",
+    "aliases": [
+      "ByteDance"
+    ],
+    "type": "Company",
+    "category": "Technology",
+    "description": "字节跳动",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Baidu",
+    "aliases": [
+      "Baidu"
+    ],
+    "type": "Company",
+    "category": "Technology",
+    "description": "百度",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "JD.com",
+    "aliases": [
+      "JD.com",
+      "Jingdong"
+    ],
+    "type": "Company",
+    "category": "Technology",
+    "description": "京东",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Pinduoduo",
+    "aliases": [
+      "Pinduoduo"
+    ],
+    "type": "Company",
+    "category": "Technology",
+    "description": "拼多多",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Meituan",
+    "aliases": [
+      "Meituan"
+    ],
+    "type": "Company",
+    "category": "Technology",
+    "description": "美团",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Xiaomi",
+    "aliases": [
+      "Xiaomi",
+      "Xiaomi Group"
+    ],
+    "type": "Company",
+    "category": "Technology",
+    "description": "小米",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Ant Group",
+    "aliases": [
+      "Ant Group"
+    ],
+    "type": "Company",
+    "category": "Fintech",
+    "description": "蚂蚁集团",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "DJI",
+    "aliases": [
+      "DJI"
+    ],
+    "type": "Company",
+    "category": "Technology",
+    "description": "大疆",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "SMIC",
+    "aliases": [
+      "SMIC"
+    ],
+    "type": "Company",
+    "category": "Semiconductor",
+    "description": "中芯国际",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "HiSilicon",
+    "aliases": [
+      "HiSilicon"
+    ],
+    "type": "Company",
+    "category": "Semiconductor",
+    "description": "海思半导体",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Taiwan Semiconductor Manufacturing",
+    "aliases": [
+      "Taiwan Semiconductor Manufacturing",
+      "TSMC"
+    ],
+    "type": "Company",
+    "category": "Semiconductor",
+    "description": "台湾积体电路制造股份有限公司 (台积电)",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Foxconn",
+    "aliases": [
+      "Foxconn",
+      "Hon Hai Precision Industry"
+    ],
+    "type": "Company",
+    "category": "Manufacturing",
+    "description": "富士康 / 鸿海精密",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "BYD",
+    "aliases": [
+      "BYD",
+      "BYD Company"
+    ],
+    "type": "Company",
+    "category": "Automotive",
+    "description": "比亚迪",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "NIO",
+    "aliases": [
+      "NIO"
+    ],
+    "type": "Company",
+    "category": "Automotive",
+    "description": "蔚来汽车",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Li Auto",
+    "aliases": [
+      "Li Auto"
+    ],
+    "type": "Company",
+    "category": "Automotive",
+    "description": "理想汽车",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "XPeng",
+    "aliases": [
+      "XPeng"
+    ],
+    "type": "Company",
+    "category": "Automotive",
+    "description": "小鹏汽车",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Geely",
+    "aliases": [
+      "Geely",
+      "Zhejiang Geely Holding Group"
+    ],
+    "type": "Company",
+    "category": "Automotive",
+    "description": "吉利汽车",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "CATL",
+    "aliases": [
+      "CATL",
+      "Contemporary Amperex Technology"
+    ],
+    "type": "Company",
+    "category": "Automotive",
+    "description": "宁德时代",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Evergrande",
+    "aliases": [
+      "Evergrande",
+      "Evergrande Group"
+    ],
+    "type": "Company",
+    "category": "Real Estate",
+    "description": "恒大集团",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Country Garden",
+    "aliases": [
+      "Country Garden",
+      "Country Garden Holdings"
+    ],
+    "type": "Company",
+    "category": "Real Estate",
+    "description": "碧桂园",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Vanke",
+    "aliases": [
+      "Vanke"
+    ],
+    "type": "Company",
+    "category": "Real Estate",
+    "description": "万科",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Sunac",
+    "aliases": [
+      "Sunac"
+    ],
+    "type": "Company",
+    "category": "Real Estate",
+    "description": "融创中国",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Wanda",
+    "aliases": [
+      "Wanda",
+      "Wanda Group"
+    ],
+    "type": "Company",
+    "category": "Real Estate",
+    "description": "万达集团",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Zhongzhi",
+    "aliases": [
+      "Zhongzhi",
+      "Zhongzhi Enterprise Group"
+    ],
+    "type": "Company",
+    "category": "Finance",
+    "description": "中植集团",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Huarong",
+    "aliases": [
+      "Huarong",
+      "China Huarong"
+    ],
+    "type": "Company",
+    "category": "Finance",
+    "description": "华融",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Industrial & Commercial Bank of China",
+    "aliases": [
+      "Industrial & Commercial Bank of China",
+      "ICBC"
+    ],
+    "type": "Company",
+    "category": "Finance",
+    "description": "中国工商银行",
+    "relevance_score": 1.0,
+    "relevance_tier": 5
+  },
+  {
+    "keyword": "China Construction Bank",
+    "aliases": [
+      "China Construction Bank",
+      "CCB"
+    ],
+    "type": "Company",
+    "category": "Finance",
+    "description": "中国建设银行",
+    "relevance_score": 1.0,
+    "relevance_tier": 5
+  },
+  {
+    "keyword": "Agricultural Bank of China",
+    "aliases": [
+      "Agricultural Bank of China",
+      "ABC"
+    ],
+    "type": "Company",
+    "category": "Finance",
+    "description": "中国农业银行",
+    "relevance_score": 1.0,
+    "relevance_tier": 5
+  },
+  {
+    "keyword": "Bank of China",
+    "aliases": [
+      "Bank of China"
+    ],
+    "type": "Company",
+    "category": "Finance",
+    "description": "中国银行",
+    "relevance_score": 1.0,
+    "relevance_tier": 5
+  },
+  {
+    "keyword": "Ping An",
+    "aliases": [
+      "Ping An",
+      "Ping An Insurance"
+    ],
+    "type": "Company",
+    "category": "Finance",
+    "description": "中国平安",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "CITIC Group",
+    "aliases": [
+      "CITIC Group",
+      "CITIC"
+    ],
+    "type": "Company",
+    "category": "Conglomerate",
+    "description": "中信集团",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "CNOOC",
+    "aliases": [
+      "CNOOC",
+      "China National Offshore Oil Corporation"
+    ],
+    "type": "Company",
+    "category": "Energy",
+    "description": "中国海洋石油",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Sinopec",
+    "aliases": [
+      "Sinopec",
+      "Sinopec Group"
+    ],
+    "type": "Company",
+    "category": "Energy",
+    "description": "中国石化",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "PetroChina",
+    "aliases": [
+      "PetroChina",
+      "China National Petroleum",
+      "CNPC"
+    ],
+    "type": "Company",
+    "category": "Energy",
+    "description": "中国石油",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Kweichow Moutai",
+    "aliases": [
+      "Kweichow Moutai",
+      "Moutai"
+    ],
+    "type": "Company",
+    "category": "Consumer Goods",
+    "description": "贵州茅台",
+    "relevance_score": 0.7,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Shein",
+    "aliases": [
+      "Shein"
+    ],
+    "type": "Company",
+    "category": "E-commerce",
+    "description": "希音",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Temu",
+    "aliases": [
+      "Temu"
+    ],
+    "type": "Company",
+    "category": "E-commerce",
+    "description": "Temu (电商平台)",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Xinhua",
+    "aliases": [
+      "Xinhua",
+      "Xinhua News Agency"
+    ],
+    "type": "Institution",
+    "category": "Media",
+    "description": "新华社",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "People's Daily",
+    "aliases": [
+      "People's Daily"
+    ],
+    "type": "Institution",
+    "category": "Media",
+    "description": "人民日报",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "China Daily",
+    "aliases": [
+      "China Daily"
+    ],
+    "type": "Institution",
+    "category": "Media",
+    "description": "中国日报",
+    "relevance_score": 0.7,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "China",
+    "aliases": [
+      "China",
+      "PRC",
+      "People's Republic of China",
+      "Mainland China"
+    ],
+    "type": "Location",
+    "category": "Country",
+    "description": "中国",
+    "relevance_score": 1.0,
+    "relevance_tier": 5
+  },
+  {
+    "keyword": "Chinese economy",
+    "aliases": [
+      "Chinese economy"
+    ],
+    "type": "Concept",
+    "category": "Economics",
+    "description": "中国经济",
+    "relevance_score": 1.0,
+    "relevance_tier": 5
+  },
+  {
+    "keyword": "US-China relations",
+    "aliases": [
+      "US-China relations",
+      "U.S.-China relations",
+      "Sino-US relations",
+      "China-US relations"
+    ],
+    "type": "Concept",
+    "category": "Geopolitics",
+    "description": "中美关系",
+    "relevance_score": 1.0,
+    "relevance_tier": 5
+  },
+  {
+    "keyword": "Belt and Road Initiative",
+    "aliases": [
+      "Belt and Road Initiative",
+      "BRI",
+      "Belt and Road",
+      "One Belt One Road"
+    ],
+    "type": "Concept",
+    "category": "Policy",
+    "description": "一带一路倡议",
+    "relevance_score": 1.0,
+    "relevance_tier": 5
+  },
+  {
+    "keyword": "Renminbi",
+    "aliases": [
+      "Renminbi",
+      "RMB",
+      "Yuan"
+    ],
+    "type": "Concept",
+    "category": "Finance",
+    "description": "人民币",
+    "relevance_score": 1.0,
+    "relevance_tier": 5
+  },
+  {
+    "keyword": "A-shares",
+    "aliases": [
+      "A-shares"
+    ],
+    "type": "Concept",
+    "category": "Finance",
+    "description": "A股",
+    "relevance_score": 1.0,
+    "relevance_tier": 5
+  },
+  {
+    "keyword": "H-shares",
+    "aliases": [
+      "H-shares"
+    ],
+    "type": "Concept",
+    "category": "Finance",
+    "description": "H股",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "ADRs",
+    "aliases": [
+      "ADRs",
+      "American Depositary Receipts"
+    ],
+    "type": "Concept",
+    "category": "Finance",
+    "description": "美国存托凭证",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "common prosperity",
+    "aliases": [
+      "common prosperity"
+    ],
+    "type": "Concept",
+    "category": "Policy",
+    "description": "共同富裕",
+    "relevance_score": 1.0,
+    "relevance_tier": 5
+  },
+  {
+    "keyword": "dual circulation",
+    "aliases": [
+      "dual circulation"
+    ],
+    "type": "Concept",
+    "category": "Policy",
+    "description": "双循环",
+    "relevance_score": 1.0,
+    "relevance_tier": 5
+  },
+  {
+    "keyword": "Reform and Opening Up",
+    "aliases": [
+      "Reform and Opening Up"
+    ],
+    "type": "Concept",
+    "category": "History",
+    "description": "改革开放",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Five-Year Plan",
+    "aliases": [
+      "Five-Year Plan"
+    ],
+    "type": "Concept",
+    "category": "Policy",
+    "description": "五年计划",
+    "relevance_score": 1.0,
+    "relevance_tier": 5
+  },
+  {
+    "keyword": "property crisis",
+    "aliases": [
+      "property crisis",
+      "real estate crisis"
+    ],
+    "type": "Concept",
+    "category": "Economics",
+    "description": "房地产危机",
+    "relevance_score": 1.0,
+    "relevance_tier": 5
+  },
+  {
+    "keyword": "local government debt",
+    "aliases": [
+      "local government debt"
+    ],
+    "type": "Concept",
+    "category": "Finance",
+    "description": "地方政府债务",
+    "relevance_score": 1.0,
+    "relevance_tier": 5
+  },
+  {
+    "keyword": "LGFV",
+    "aliases": [
+      "LGFV",
+      "local government financing vehicle"
+    ],
+    "type": "Concept",
+    "category": "Finance",
+    "description": "地方政府融资平台",
+    "relevance_score": 1.0,
+    "relevance_tier": 5
+  },
+  {
+    "keyword": "shadow banking",
+    "aliases": [
+      "shadow banking"
+    ],
+    "type": "Concept",
+    "category": "Finance",
+    "description": "影子银行",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "chip ban",
+    "aliases": [
+      "chip ban"
+    ],
+    "type": "Concept",
+    "category": "Geopolitics",
+    "description": "芯片禁令",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "US-China trade war",
+    "aliases": [
+      "US-China trade war",
+      "U.S.-China trade war"
+    ],
+    "type": "Concept",
+    "category": "Geopolitics",
+    "description": "中美贸易战",
+    "relevance_score": 1.0,
+    "relevance_tier": 5
+  },
+  {
+    "keyword": "One-China policy",
+    "aliases": [
+      "One-China policy",
+      "One China policy"
+    ],
+    "type": "Concept",
+    "category": "Geopolitics",
+    "description": "一个中国政策",
+    "relevance_score": 1.0,
+    "relevance_tier": 5
+  },
+  {
+    "keyword": "One country, two systems",
+    "aliases": [
+      "One country, two systems",
+      "One country+two systems"
+    ],
+    "type": "Concept",
+    "category": "Policy",
+    "description": "一国两制",
+    "relevance_score": 1.0,
+    "relevance_tier": 5
+  },
+  {
+    "keyword": "Cross-strait relations",
+    "aliases": [
+      "Cross-strait relations"
+    ],
+    "type": "Concept",
+    "category": "Geopolitics",
+    "description": "两岸关系",
+    "relevance_score": 1.0,
+    "relevance_tier": 5
+  },
+  {
+    "keyword": "South China Sea",
+    "aliases": [
+      "South China Sea"
+    ],
+    "type": "Location",
+    "category": "Geopolitics",
+    "description": "南海",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Taiwan Strait",
+    "aliases": [
+      "Taiwan Strait"
+    ],
+    "type": "Location",
+    "category": "Geopolitics",
+    "description": "台湾海峡",
+    "relevance_score": 1.0,
+    "relevance_tier": 5
+  },
+  {
+    "keyword": "Hong Kong",
+    "aliases": [
+      "Hong Kong",
+      "Hongkong"
+    ],
+    "type": "Location",
+    "category": "City",
+    "description": "香港",
+    "relevance_score": 1.0,
+    "relevance_tier": 5
+  },
+  {
+    "keyword": "Macau",
+    "aliases": [
+      "Macau",
+      "Macao"
+    ],
+    "type": "Location",
+    "category": "City",
+    "description": "澳门",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Taiwan",
+    "aliases": [
+      "Taiwan"
+    ],
+    "type": "Location",
+    "category": "Region",
+    "description": "台湾",
+    "relevance_score": 1.0,
+    "relevance_tier": 5
+  },
+  {
+    "keyword": "Beijing",
+    "aliases": [
+      "Beijing",
+      "Peking"
+    ],
+    "type": "Location",
+    "category": "City",
+    "description": "北京市",
+    "relevance_score": 1.0,
+    "relevance_tier": 5
+  },
+  {
+    "keyword": "Shanghai",
+    "aliases": [
+      "Shanghai"
+    ],
+    "type": "Location",
+    "category": "City",
+    "description": "上海市",
+    "relevance_score": 1.0,
+    "relevance_tier": 5
+  },
+  {
+    "keyword": "Shenzhen",
+    "aliases": [
+      "Shenzhen"
+    ],
+    "type": "Location",
+    "category": "City",
+    "description": "深圳",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Guangzhou",
+    "aliases": [
+      "Guangzhou"
+    ],
+    "type": "Location",
+    "category": "City",
+    "description": "广州",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Xinjiang",
+    "aliases": [
+      "Xinjiang",
+      "Xinjiang Uyghur Autonomous Region"
+    ],
+    "type": "Location",
+    "category": "Region",
+    "description": "新疆",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Tibet",
+    "aliases": [
+      "Tibet",
+      "Tibet Autonomous Region"
+    ],
+    "type": "Location",
+    "category": "Region",
+    "description": "西藏",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Wuhan",
+    "aliases": [
+      "Wuhan"
+    ],
+    "type": "Location",
+    "category": "City",
+    "description": "武汉",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "dynamic zero-COVID",
+    "aliases": [
+      "dynamic zero-COVID",
+      "zero-COVID"
+    ],
+    "type": "Concept",
+    "category": "Policy",
+    "description": "动态清零",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "one-child policy",
+    "aliases": [
+      "one-child policy",
+      "One-Child Policy"
+    ],
+    "type": "Concept",
+    "category": "Policy",
+    "description": "独生子女政策",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "hukou",
+    "aliases": [
+      "hukou"
+    ],
+    "type": "Concept",
+    "category": "Policy",
+    "description": "户口",
+    "relevance_score": 0.7,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "gaokao",
+    "aliases": [
+      "gaokao"
+    ],
+    "type": "Concept",
+    "category": "Social",
+    "description": "高考",
+    "relevance_score": 0.6,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "lying flat",
+    "aliases": [
+      "lying flat",
+      "tang ping"
+    ],
+    "type": "Concept",
+    "category": "Social",
+    "description": "躺平",
+    "relevance_score": 0.7,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "involution",
+    "aliases": [
+      "involution"
+    ],
+    "type": "Concept",
+    "category": "Social",
+    "description": "内卷",
+    "relevance_score": 0.7,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Great Firewall",
+    "aliases": [
+      "Great Firewall"
+    ],
+    "type": "Concept",
+    "category": "Technology",
+    "description": "防火长城",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Socialism with Chinese characteristics",
+    "aliases": [
+      "Socialism with Chinese characteristics"
+    ],
+    "type": "Concept",
+    "category": "Politics",
+    "description": "中国特色社会主义",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Chinese Dream",
+    "aliases": [
+      "Chinese Dream"
+    ],
+    "type": "Concept",
+    "category": "Politics",
+    "description": "中国梦",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "SOE",
+    "aliases": [
+      "SOE",
+      "state-owned enterprise"
+    ],
+    "type": "Concept",
+    "category": "Economics",
+    "description": "国有企业",
+    "relevance_score": 1.0,
+    "relevance_tier": 5
+  },
+  {
+    "keyword": "Cultural Revolution",
+    "aliases": [
+      "Cultural Revolution"
+    ],
+    "type": "Event",
+    "category": "History",
+    "description": "文化大革命",
+    "relevance_score": 0.7,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Tiananmen Square",
+    "aliases": [
+      "Tiananmen Square"
+    ],
+    "type": "Location",
+    "category": "Landmark",
+    "description": "天安门广场",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Forbidden City",
+    "aliases": [
+      "Forbidden City"
+    ],
+    "type": "Location",
+    "category": "Landmark",
+    "description": "紫禁城 (故宫)",
+    "relevance_score": 0.3,
+    "relevance_tier": 2
+  },
+  {
+    "keyword": "Great Wall",
+    "aliases": [
+      "Great Wall",
+      "Great Wall of China"
+    ],
+    "type": "Location",
+    "category": "Landmark",
+    "description": "长城",
+    "relevance_score": 0.4,
+    "relevance_tier": 2
+  },
+  {
+    "keyword": "Spring Festival",
+    "aliases": [
+      "Spring Festival",
+      "Chinese New Year",
+      "Lunar New Year"
+    ],
+    "type": "Event",
+    "category": "Culture",
+    "description": "春节/中国新年",
+    "relevance_score": 0.5,
+    "relevance_tier": 2
+  },
+  {
+    "keyword": "Confucius Institute",
+    "aliases": [
+      "Confucius Institute"
+    ],
+    "type": "Institution",
+    "category": "Culture",
+    "description": "孔子学院",
+    "relevance_score": 0.7,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "WeChat",
+    "aliases": [
+      "WeChat"
+    ],
+    "type": "Product",
+    "category": "Technology",
+    "description": "微信",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "TikTok",
+    "aliases": [
+      "TikTok"
+    ],
+    "type": "Product",
+    "category": "Technology",
+    "description": "抖音 (国际版)",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Alipay",
+    "aliases": [
+      "Alipay"
+    ],
+    "type": "Product",
+    "category": "Fintech",
+    "description": "支付宝",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Wolf Warrior diplomacy",
+    "aliases": [
+      "Wolf Warrior diplomacy"
+    ],
+    "type": "Concept",
+    "category": "Diplomacy",
+    "description": "战狼外交",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Hisense",
+    "aliases": [
+      "Hisense"
+    ],
+    "type": "Company",
+    "category": "Technology",
+    "description": "海信",
+    "relevance_score": 0.6,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "TCL",
+    "aliases": [
+      "TCL",
+      "TCL Technology"
+    ],
+    "type": "Company",
+    "category": "Technology",
+    "description": "TCL",
+    "relevance_score": 0.6,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Midea",
+    "aliases": [
+      "Midea",
+      "Midea Group"
+    ],
+    "type": "Company",
+    "category": "Manufacturing",
+    "description": "美的集团",
+    "relevance_score": 0.7,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Gree",
+    "aliases": [
+      "Gree",
+      "Gree Electric"
+    ],
+    "type": "Company",
+    "category": "Manufacturing",
+    "description": "格力电器",
+    "relevance_score": 0.7,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Haier",
+    "aliases": [
+      "Haier",
+      "Haier Group"
+    ],
+    "type": "Company",
+    "category": "Manufacturing",
+    "description": "海尔集团",
+    "relevance_score": 0.7,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "iFlytek",
+    "aliases": [
+      "iFlytek"
+    ],
+    "type": "Company",
+    "category": "Technology",
+    "description": "科大讯飞",
+    "relevance_score": 0.7,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Kingsoft",
+    "aliases": [
+      "Kingsoft"
+    ],
+    "type": "Company",
+    "category": "Technology",
+    "description": "金山软件",
+    "relevance_score": 0.6,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "360 Security",
+    "aliases": [
+      "360 Security"
+    ],
+    "type": "Company",
+    "category": "Technology",
+    "description": "360安全卫士",
+    "relevance_score": 0.6,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "NetEase",
+    "aliases": [
+      "NetEase"
+    ],
+    "type": "Company",
+    "category": "Technology",
+    "description": "网易",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "miHoYo",
+    "aliases": [
+      "miHoYo"
+    ],
+    "type": "Company",
+    "category": "Gaming",
+    "description": "米哈游 (原神开发商)",
+    "relevance_score": 0.7,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "China Mobile",
+    "aliases": [
+      "China Mobile",
+      "China Mobile Communications"
+    ],
+    "type": "Company",
+    "category": "Telecommunications",
+    "description": "中国移动",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "China Unicom",
+    "aliases": [
+      "China Unicom",
+      "China United Network Communications"
+    ],
+    "type": "Company",
+    "category": "Telecommunications",
+    "description": "中国联通",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "China Telecom",
+    "aliases": [
+      "China Telecom",
+      "China Telecommunications"
+    ],
+    "type": "Company",
+    "category": "Telecommunications",
+    "description": "中国电信",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "SAIC Motor",
+    "aliases": [
+      "SAIC Motor",
+      "SAIC"
+    ],
+    "type": "Company",
+    "category": "Automotive",
+    "description": "上海汽车集团 (上汽)",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "FAW Group",
+    "aliases": [
+      "FAW Group",
+      "First Automobile Works"
+    ],
+    "type": "Company",
+    "category": "Automotive",
+    "description": "中国第一汽车集团 (一汽)",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Dongfeng Motor",
+    "aliases": [
+      "Dongfeng Motor"
+    ],
+    "type": "Company",
+    "category": "Automotive",
+    "description": "东风汽车集团",
+    "relevance_score": 0.7,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "GAC Group",
+    "aliases": [
+      "GAC Group",
+      "Guangzhou Automobile Group"
+    ],
+    "type": "Company",
+    "category": "Automotive",
+    "description": "广州汽车集团 (广汽)",
+    "relevance_score": 0.7,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Great Wall Motor",
+    "aliases": [
+      "Great Wall Motor",
+      "GWM"
+    ],
+    "type": "Company",
+    "category": "Automotive",
+    "description": "长城汽车",
+    "relevance_score": 0.7,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "SANY",
+    "aliases": [
+      "SANY"
+    ],
+    "type": "Company",
+    "category": "Industrial",
+    "description": "三一重工",
+    "relevance_score": 0.7,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Bank of Communications",
+    "aliases": [
+      "Bank of Communications"
+    ],
+    "type": "Company",
+    "category": "Finance",
+    "description": "交通银行",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "China Merchants Bank",
+    "aliases": [
+      "China Merchants Bank"
+    ],
+    "type": "Company",
+    "category": "Finance",
+    "description": "招商银行",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "CICC",
+    "aliases": [
+      "CICC",
+      "China International Capital Corporation"
+    ],
+    "type": "Company",
+    "category": "Finance",
+    "description": "中国国际金融股份有限公司 (中金公司)",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "China Life",
+    "aliases": [
+      "China Life",
+      "China Life Insurance"
+    ],
+    "type": "Company",
+    "category": "Finance",
+    "description": "中国人寿",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "CSCEC",
+    "aliases": [
+      "CSCEC",
+      "China State Construction Engineering Corp"
+    ],
+    "type": "Company",
+    "category": "Industrial",
+    "description": "中国建筑集团",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Luckin Coffee",
+    "aliases": [
+      "Luckin Coffee"
+    ],
+    "type": "Company",
+    "category": "Consumer Goods",
+    "description": "瑞幸咖啡",
+    "relevance_score": 0.7,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Haidilao",
+    "aliases": [
+      "Haidilao"
+    ],
+    "type": "Company",
+    "category": "Consumer Goods",
+    "description": "海底捞",
+    "relevance_score": 0.6,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Air China",
+    "aliases": [
+      "Air China"
+    ],
+    "type": "Company",
+    "category": "Aviation",
+    "description": "中国国际航空",
+    "relevance_score": 0.7,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "China Southern Airlines",
+    "aliases": [
+      "China Southern Airlines"
+    ],
+    "type": "Company",
+    "category": "Aviation",
+    "description": "中国南方航空",
+    "relevance_score": 0.7,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "China Eastern Airlines",
+    "aliases": [
+      "China Eastern Airlines"
+    ],
+    "type": "Company",
+    "category": "Aviation",
+    "description": "中国东方航空",
+    "relevance_score": 0.7,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "SF Express",
+    "aliases": [
+      "SF Express",
+      "SF Holding"
+    ],
+    "type": "Company",
+    "category": "Logistics",
+    "description": "顺丰速运",
+    "relevance_score": 0.7,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Yili",
+    "aliases": [
+      "Yili"
+    ],
+    "type": "Company",
+    "category": "Consumer Goods",
+    "description": "伊利",
+    "relevance_score": 0.6,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "HSBC Holdings",
+    "aliases": [
+      "HSBC Holdings",
+      "HSBC"
+    ],
+    "type": "Company",
+    "category": "Finance",
+    "description": "香港上海汇丰银行",
+    "relevance_score": 0.7,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Lenovo",
+    "aliases": [
+      "Lenovo",
+      "Lenovo Group"
+    ],
+    "type": "Company",
+    "category": "Technology",
+    "description": "联想集团",
+    "relevance_score": 0.7,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "COSCO",
+    "aliases": [
+      "COSCO",
+      "China COSCO Shipping"
+    ],
+    "type": "Company",
+    "category": "Logistics",
+    "description": "中远集团",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Yum China Holdings",
+    "aliases": [
+      "Yum China Holdings"
+    ],
+    "type": "Company",
+    "category": "Consumer Goods",
+    "description": "百胜中国",
+    "relevance_score": 0.6,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Hebei",
+    "aliases": [
+      "Hebei"
+    ],
+    "type": "Location",
+    "category": "Province",
+    "description": "河北省",
+    "relevance_score": 0.6,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Shanxi",
+    "aliases": [
+      "Shanxi"
+    ],
+    "type": "Location",
+    "category": "Province",
+    "description": "山西省",
+    "relevance_score": 0.6,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Liaoning",
+    "aliases": [
+      "Liaoning"
+    ],
+    "type": "Location",
+    "category": "Province",
+    "description": "辽宁省",
+    "relevance_score": 0.6,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Jilin",
+    "aliases": [
+      "Jilin"
+    ],
+    "type": "Location",
+    "category": "Province",
+    "description": "吉林省",
+    "relevance_score": 0.6,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Heilongjiang",
+    "aliases": [
+      "Heilongjiang"
+    ],
+    "type": "Location",
+    "category": "Province",
+    "description": "黑龙江省",
+    "relevance_score": 0.6,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Jiangsu",
+    "aliases": [
+      "Jiangsu"
+    ],
+    "type": "Location",
+    "category": "Province",
+    "description": "江苏省",
+    "relevance_score": 0.7,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Zhejiang",
+    "aliases": [
+      "Zhejiang"
+    ],
+    "type": "Location",
+    "category": "Province",
+    "description": "浙江省",
+    "relevance_score": 0.7,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Anhui",
+    "aliases": [
+      "Anhui"
+    ],
+    "type": "Location",
+    "category": "Province",
+    "description": "安徽省",
+    "relevance_score": 0.6,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Fujian",
+    "aliases": [
+      "Fujian"
+    ],
+    "type": "Location",
+    "category": "Province",
+    "description": "福建省",
+    "relevance_score": 0.7,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Jiangxi",
+    "aliases": [
+      "Jiangxi"
+    ],
+    "type": "Location",
+    "category": "Province",
+    "description": "江西省",
+    "relevance_score": 0.6,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Shandong",
+    "aliases": [
+      "Shandong"
+    ],
+    "type": "Location",
+    "category": "Province",
+    "description": "山东省",
+    "relevance_score": 0.7,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Henan",
+    "aliases": [
+      "Henan"
+    ],
+    "type": "Location",
+    "category": "Province",
+    "description": "河南省",
+    "relevance_score": 0.6,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Hubei",
+    "aliases": [
+      "Hubei"
+    ],
+    "type": "Location",
+    "category": "Province",
+    "description": "湖北省",
+    "relevance_score": 0.7,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Hunan",
+    "aliases": [
+      "Hunan"
+    ],
+    "type": "Location",
+    "category": "Province",
+    "description": "湖南省",
+    "relevance_score": 0.6,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Guangdong",
+    "aliases": [
+      "Guangdong"
+    ],
+    "type": "Location",
+    "category": "Province",
+    "description": "广东省",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Hainan",
+    "aliases": [
+      "Hainan"
+    ],
+    "type": "Location",
+    "category": "Province",
+    "description": "海南省",
+    "relevance_score": 0.7,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Sichuan",
+    "aliases": [
+      "Sichuan"
+    ],
+    "type": "Location",
+    "category": "Province",
+    "description": "四川省",
+    "relevance_score": 0.7,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Guizhou",
+    "aliases": [
+      "Guizhou"
+    ],
+    "type": "Location",
+    "category": "Province",
+    "description": "贵州省",
+    "relevance_score": 0.6,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Yunnan",
+    "aliases": [
+      "Yunnan"
+    ],
+    "type": "Location",
+    "category": "Province",
+    "description": "云南省",
+    "relevance_score": 0.6,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Shaanxi",
+    "aliases": [
+      "Shaanxi"
+    ],
+    "type": "Location",
+    "category": "Province",
+    "description": "陕西省",
+    "relevance_score": 0.6,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Gansu",
+    "aliases": [
+      "Gansu"
+    ],
+    "type": "Location",
+    "category": "Province",
+    "description": "甘肃省",
+    "relevance_score": 0.6,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Qinghai",
+    "aliases": [
+      "Qinghai"
+    ],
+    "type": "Location",
+    "category": "Province",
+    "description": "青海省",
+    "relevance_score": 0.6,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Inner Mongolia Autonomous Region",
+    "aliases": [
+      "Inner Mongolia Autonomous Region",
+      "Inner Mongolia"
+    ],
+    "type": "Location",
+    "category": "Region",
+    "description": "内蒙古自治区",
+    "relevance_score": 0.6,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Guangxi Zhuang Autonomous Region",
+    "aliases": [
+      "Guangxi Zhuang Autonomous Region",
+      "Guangxi"
+    ],
+    "type": "Location",
+    "category": "Region",
+    "description": "广西壮族自治区",
+    "relevance_score": 0.6,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Ningxia Hui Autonomous Region",
+    "aliases": [
+      "Ningxia Hui Autonomous Region",
+      "Ningxia"
+    ],
+    "type": "Location",
+    "category": "Region",
+    "description": "宁夏回族自治区",
+    "relevance_score": 0.6,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Tianjin",
+    "aliases": [
+      "Tianjin"
+    ],
+    "type": "Location",
+    "category": "City",
+    "description": "天津市",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Chongqing",
+    "aliases": [
+      "Chongqing"
+    ],
+    "type": "Location",
+    "category": "City",
+    "description": "重庆市",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Hangzhou",
+    "aliases": [
+      "Hangzhou"
+    ],
+    "type": "Location",
+    "category": "City",
+    "description": "杭州",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Nanjing",
+    "aliases": [
+      "Nanjing"
+    ],
+    "type": "Location",
+    "category": "City",
+    "description": "南京",
+    "relevance_score": 0.7,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Chengdu",
+    "aliases": [
+      "Chengdu"
+    ],
+    "type": "Location",
+    "category": "City",
+    "description": "成都",
+    "relevance_score": 0.7,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Suzhou",
+    "aliases": [
+      "Suzhou"
+    ],
+    "type": "Location",
+    "category": "City",
+    "description": "苏州",
+    "relevance_score": 0.7,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Yangtze River",
+    "aliases": [
+      "Yangtze River"
+    ],
+    "type": "Location",
+    "category": "Landmark",
+    "description": "长江",
+    "relevance_score": 0.5,
+    "relevance_tier": 2
+  },
+  {
+    "keyword": "Yellow River",
+    "aliases": [
+      "Yellow River"
+    ],
+    "type": "Location",
+    "category": "Landmark",
+    "description": "黄河",
+    "relevance_score": 0.5,
+    "relevance_tier": 2
+  },
+  {
+    "keyword": "Three Gorges Dam",
+    "aliases": [
+      "Three Gorges Dam"
+    ],
+    "type": "Location",
+    "category": "Landmark",
+    "description": "三峡大坝",
+    "relevance_score": 0.7,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Confucianism",
+    "aliases": [
+      "Confucianism"
+    ],
+    "type": "Concept",
+    "category": "Culture",
+    "description": "儒家思想",
+    "relevance_score": 0.5,
+    "relevance_tier": 2
+  },
+  {
+    "keyword": "Confucius",
+    "aliases": [
+      "Confucius"
+    ],
+    "type": "Person",
+    "category": "History",
+    "description": "孔子",
+    "relevance_score": 0.5,
+    "relevance_tier": 2
+  },
+  {
+    "keyword": "Yin Yang",
+    "aliases": [
+      "Yin Yang"
+    ],
+    "type": "Concept",
+    "category": "Culture",
+    "description": "阴阳",
+    "relevance_score": 0.4,
+    "relevance_tier": 2
+  },
+  {
+    "keyword": "Sun Wukong",
+    "aliases": [
+      "Sun Wukong",
+      "Monkey King"
+    ],
+    "type": "Person",
+    "category": "Culture",
+    "description": "孙悟空 (美猴王《西游记》主角)",
+    "relevance_score": 0.2,
+    "relevance_tier": 1
+  },
+  {
+    "keyword": "Guan Yu",
+    "aliases": [
+      "Guan Yu",
+      "God of War"
+    ],
+    "type": "Person",
+    "category": "Culture",
+    "description": "关羽 (被神化的历史人物+武财神)",
+    "relevance_score": 0.2,
+    "relevance_tier": 1
+  },
+  {
+    "keyword": "Pangu",
+    "aliases": [
+      "Pangu"
+    ],
+    "type": "Person",
+    "category": "Culture",
+    "description": "盘古 (开天辟地的创世神)",
+    "relevance_score": 0.1,
+    "relevance_tier": 1
+  },
+  {
+    "keyword": "Nuwa",
+    "aliases": [
+      "Nuwa"
+    ],
+    "type": "Person",
+    "category": "Culture",
+    "description": "女娲 (抟土造人+补天的女神)",
+    "relevance_score": 0.1,
+    "relevance_tier": 1
+  },
+  {
+    "keyword": "Fuxi",
+    "aliases": [
+      "Fuxi"
+    ],
+    "type": "Person",
+    "category": "Culture",
+    "description": "伏羲 (人文始祖之一)",
+    "relevance_score": 0.1,
+    "relevance_tier": 1
+  },
+  {
+    "keyword": "Shennong",
+    "aliases": [
+      "Shennong"
+    ],
+    "type": "Person",
+    "category": "Culture",
+    "description": "神农 (尝百草的农业与医药之神)",
+    "relevance_score": 0.1,
+    "relevance_tier": 1
+  },
+  {
+    "keyword": "Yellow Emperor",
+    "aliases": [
+      "Yellow Emperor",
+      "Huangdi"
+    ],
+    "type": "Person",
+    "category": "Culture",
+    "description": "黄帝 (中华民族的人文初祖)",
+    "relevance_score": 0.1,
+    "relevance_tier": 1
+  },
+  {
+    "keyword": "Jade Emperor",
+    "aliases": [
+      "Jade Emperor"
+    ],
+    "type": "Person",
+    "category": "Culture",
+    "description": "玉皇大帝 (道教中的天界最高神)",
+    "relevance_score": 0.1,
+    "relevance_tier": 1
+  },
+  {
+    "keyword": "Tang Sanzang",
+    "aliases": [
+      "Tang Sanzang"
+    ],
+    "type": "Person",
+    "category": "Culture",
+    "description": "唐三藏 (唐僧《西游记》人物)",
+    "relevance_score": 0.1,
+    "relevance_tier": 1
+  },
+  {
+    "keyword": "Zhu Bajie",
+    "aliases": [
+      "Zhu Bajie",
+      "Pigsy"
+    ],
+    "type": "Person",
+    "category": "Culture",
+    "description": "猪八戒 (《西游记》人物)",
+    "relevance_score": 0.1,
+    "relevance_tier": 1
+  },
+  {
+    "keyword": "Nezha",
+    "aliases": [
+      "Nezha"
+    ],
+    "type": "Person",
+    "category": "Culture",
+    "description": "哪吒 (道教护法神)",
+    "relevance_score": 0.1,
+    "relevance_tier": 1
+  },
+  {
+    "keyword": "Chang'e",
+    "aliases": [
+      "Chang'e"
+    ],
+    "type": "Concept",
+    "category": "Technology",
+    "description": "嫦娥 (月宫仙子 / China's Lunar Exploration Program)",
+    "relevance_score": 0.7,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Hou Yi",
+    "aliases": [
+      "Hou Yi"
+    ],
+    "type": "Person",
+    "category": "Culture",
+    "description": "后羿 (射日的神箭手)",
+    "relevance_score": 0.1,
+    "relevance_tier": 1
+  },
+  {
+    "keyword": "Panda",
+    "aliases": [
+      "Panda",
+      "Giant Panda"
+    ],
+    "type": "Concept",
+    "category": "Culture",
+    "description": "熊猫 (中国的国宝，'熊猫外交'的象征)",
+    "relevance_score": 0.6,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Dongfeng",
+    "aliases": [
+      "Dongfeng",
+      "DF"
+    ],
+    "type": "Product",
+    "category": "Military",
+    "description": "东风系列导弹 (China's primary strategic missile family)",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "DF-41",
+    "aliases": [
+      "DF-41"
+    ],
+    "type": "Product",
+    "category": "Military",
+    "description": "东风-41 (Intercontinental Ballistic Missile - ICBM)",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "DF-21D",
+    "aliases": [
+      "DF-21D"
+    ],
+    "type": "Product",
+    "category": "Military",
+    "description": "东风-21D (Anti-Ship Ballistic Missile, 'Carrier-Killer')",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "hypersonic missile",
+    "aliases": [
+      "hypersonic missile",
+      "hypersonic glide vehicle",
+      "HGV"
+    ],
+    "type": "Concept",
+    "category": "Military",
+    "description": "高超音速导弹 (A key area of military competition, e.g., DF-17)",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "J-20",
+    "aliases": [
+      "J-20",
+      "Mighty Dragon"
+    ],
+    "type": "Product",
+    "category": "Military",
+    "description": "歼-20 (China's 5th generation stealth fighter)",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Type 055",
+    "aliases": [
+      "Type 055"
+    ],
+    "type": "Product",
+    "category": "Military",
+    "description": "055型驱逐舰 (Advanced large destroyer/cruiser class)",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Liaoning",
+    "aliases": [
+      "Liaoning"
+    ],
+    "type": "Product",
+    "category": "Military",
+    "description": "辽宁号航空母舰 (China's first aircraft carrier)",
+    "relevance_score": 0.7,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Shandong",
+    "aliases": [
+      "Shandong"
+    ],
+    "type": "Product",
+    "category": "Military",
+    "description": "山东号航空母舰 (China's second aircraft carrier)",
+    "relevance_score": 0.7,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Fujian",
+    "aliases": [
+      "Fujian"
+    ],
+    "type": "Product",
+    "category": "Military",
+    "description": "福建号航空母舰 (China's third, most advanced aircraft carrier)",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Tiangong space station",
+    "aliases": [
+      "Tiangong space station",
+      "Tiangong"
+    ],
+    "type": "Product",
+    "category": "Aerospace",
+    "description": "天宫空间站 (China's permanent space station)",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Long March",
+    "aliases": [
+      "Long March",
+      "Chang Zheng"
+    ],
+    "type": "Product",
+    "category": "Aerospace",
+    "description": "长征系列运载火箭 (China's primary rocket family)",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Shenzhou",
+    "aliases": [
+      "Shenzhou"
+    ],
+    "type": "Product",
+    "category": "Aerospace",
+    "description": "神舟飞船 (China's crewed spaceflight program)",
+    "relevance_score": 0.7,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Tianwen",
+    "aliases": [
+      "Tianwen"
+    ],
+    "type": "Product",
+    "category": "Aerospace",
+    "description": "天问一号 (China's Mars exploration mission)",
+    "relevance_score": 0.7,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Zhurong",
+    "aliases": [
+      "Zhurong"
+    ],
+    "type": "Product",
+    "category": "Aerospace",
+    "description": "祝融号火星车 (China's Mars rover)",
+    "relevance_score": 0.6,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Yutu",
+    "aliases": [
+      "Yutu",
+      "Jade Rabbit"
+    ],
+    "type": "Product",
+    "category": "Aerospace",
+    "description": "玉兔号月球车 (China's lunar rover)",
+    "relevance_score": 0.6,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "China National Space Administration",
+    "aliases": [
+      "China National Space Administration",
+      "CNSA"
+    ],
+    "type": "Institution",
+    "category": "Aerospace",
+    "description": "国家航天局",
+    "relevance_score": 0.8,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Wenchang",
+    "aliases": [
+      "Wenchang",
+      "Wenchang Space Launch Site"
+    ],
+    "type": "Location",
+    "category": "Aerospace",
+    "description": "文昌航天发射场 (Key coastal launch center for heavy rockets)",
+    "relevance_score": 0.6,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Jiuquan",
+    "aliases": [
+      "Jiuquan",
+      "Jiuquan Satellite Launch Center"
+    ],
+    "type": "Location",
+    "category": "Aerospace",
+    "description": "酒泉卫星发射中心 (Primary launch center for crewed missions)",
+    "relevance_score": 0.6,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "BeiDou",
+    "aliases": [
+      "BeiDou",
+      "BDS",
+      "BeiDou Navigation Satellite System"
+    ],
+    "type": "Product",
+    "category": "Satellite Technology",
+    "description": "北斗卫星导航系统 (China's global satellite navigation system, a rival to GPS)",
+    "relevance_score": 0.9,
+    "relevance_tier": 4
+  },
+  {
+    "keyword": "Gaofen",
+    "aliases": [
+      "Gaofen"
+    ],
+    "type": "Product",
+    "category": "Satellite Technology",
+    "description": "高分系列卫星 (High-resolution Earth observation satellites)",
+    "relevance_score": 0.6,
+    "relevance_tier": 3
+  },
+  {
+    "keyword": "Yaogan",
+    "aliases": [
+      "Yaogan"
+    ],
+    "type": "Product",
+    "category": "Satellite Technology",
+    "description": "遥感系列卫星 (Remote sensing satellites, often with military applications)",
+    "relevance_score": 0.6,
+    "relevance_tier": 3
+  }
+]

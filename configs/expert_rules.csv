@@ -1,0 +1,729 @@
+phrase_to_merge,standard_form
+"paine, webber",paine_webber
+"sears, roebuck & co.",sears_roebuck
+"jardine, matheson & co.",jardine_matheson
+federal deposit insurance corp.,federal_deposit_insurance_corporation
+hongkong & shanghai banking corp.,hsbc
+jones industrial,dow_jones_industrial_average
+industrial average,dow_jones_industrial_average
+moody's investors service inc.,moodys
+smith barney harris upham,smith_barney
+hongkong shanghai banking corp.,hsbc
+hongkong shanghai banking corp,hsbc
+drexel burnham lambert inc.,drexel_burnham_lambert
+morgan stanley & co.,morgan_stanley
+morgan guaranty trust co.,morgan_guaranty_trust
+merrill lynch & co.,merrill_lynch
+mcdonnell douglas corp.,mcdonnell_douglas
+atlantic richfield co.,atlantic_richfield
+jones industrials,dow_jones_industrial_average
+standard & poor's corp.,standard_and_poors
+asian wall street journal,asian_wall_street_journal
+organization of petroleum exporting countries,opec
+north atlantic treaty organization,north_atlantic_treaty_organization
+manufacturers hanover trust co.,hanover_trust
+general motors corp.,general_motors
+ford motor co.,ford_motor_company
+american telephone and telegraph,american_telephone_and_telegraph
+british petroleum co.,british_petroleum
+pan american world airways,pan_american_world_airways
+apple computer inc.,apple_computer
+drexel burnham lambert,drexel_burnham_lambert
+johnson & johnson,johnson_and_johnson
+daniel patrick moynihan,daniel_patrick_moynihan
+chiang ching-kuo,chiang_ching_kuo
+credit suisse first boston,credit_suisse_first_boston
+witter reynolds,dean_witter_reynolds
+shearson american express,shearson_american_express
+shearson/american express,shearson_american_express
+shearson lehman brothers,shearson_lehman_brothers
+marsh and mclennan,marsh_and_mclennan
+mccormack and dodge,mccormack_and_dodge
+credit suisse,credit_suisse_first_boston
+suisse first,credit_suisse_first_boston
+j. david & co.,j_david_dominelli
+chicago mercantile exchange,chicago_mercantile_exchange
+federal deposit insurance,federal_deposit_insurance_corporation
+internal revenue service,internal_revenue_service
+federal aviation administration,federal_aviation_administration
+federal communications commission,federal_communications_commission
+securities and exchange commission,securities_and_exchange_commission
+international monetary fund,international_monetary_fund
+peoples bank of china,peoples_bank_of_china
+london interbank offered rate,london_interbank_offered_rate
+american depositary receipts,american_depositary_receipts
+initial public offering,initial_public_offering
+hongkong shanghai,hsbc
+manufacturers hanover,hanover_trust
+chase manhattan,chase_manhattan_bank
+security pacific,security_pacific_bank
+marine midland bank,marine_midland_bank
+digital equipment,digital_equipment_corp
+american telephone,american_telephone_and_telegraph
+telephone telegraph,american_telephone_and_telegraph
+atlantic richfield,atlantic_richfield
+mcdonnell douglas,mcdonnell_douglas
+pan american,pan_american_world_airways
+world airways,pan_american_world_airways
+apple computer,apple_computer
+drexel burnham,drexel_burnham_lambert
+burnham lambert,drexel_burnham_lambert
+president carter,jimmy_carter
+george bush,george_bush
+chairman paul,paul_volcker
+state shultz,george_shultz
+howard baker,howard_baker
+robert dole,bob_dole
+sen. moynihan,daniel_patrick_moynihan
+alan cranston,alan_cranston
+jesse jackson,jesse_jackson
+rev. jesse,jesse_jackson
+chiang ching,chiang_ching
+hu yaobang,hu_yaobang
+norodom sihanouk,norodom_sihanouk
+prince sihanouk,norodom_sihanouk
+leonid brezhnev,leonid_brezhnev
+konstantin chernenko,konstantin_chernenko
+yuri andropov,yuri_andropov
+mikhail gorbachev,mikhail_gorbachev
+andrei gromyko,andrei_gromyko
+andrei sakharov,andrei_sakharov
+muhammadu buhari,muhammadu_buhari
+shehu shagari,shehu_shagari
+muammar gaddafi,muammar_gaddafi
+hafez al_assad,hafez_al_assad
+president assad,hafez_al_assad
+king hussein,king_hussein
+zhao ziyang,zhao_ziyang
+francois mitterrand,francois_mitterrand
+richrichard nixon,richard_nixon
+henry kissinger,henry_kissinger
+yasuhiro nakasone,yasuhiro_nakasone
+alexander haig,alexander_haig
+andreas papandreou,andreas_papandreou
+enrico berlinguer,enrico_berlinguer
+bettino craxi,bettino_craxi
+michael deaver,michael_deaver
+ralph nader,ralph_nader
+larry speakes,larry_speakes
+amin gemayel,amin_gemayel
+malcolm baldrige,malcolm_baldrige
+edwin meese,edwin_meese
+georges marchais,georges_marchais
+matthew meselson,matthew_meselson
+william ruckelshaus,william_ruckelshaus
+dan rostenkowski,dan_rostenkowski
+owen bieber,owen_bieber
+norman lear,norman_lear
+peter ueberroth,peter_ueberroth
+mahathir mohamad,mahathir_mohamad
+raul alfonsin,raul_alfonsin
+pope john paul ii,pope_john_paul_ii
+j david dominelli,j_david_dominelli
+j. david,j_david_dominelli
+david brinkley,david_brinkley
+henry kaufman,henry_kaufman
+james t mcgroarty,james_t_mcgroarty
+new york stock exchange,new_york_stock_exchange
+standard and poors,standard_and_poors
+sears roebuck,sears_roebuck
+roebuck co.,sears_roebuck
+prudential bache,prudential_bache
+prudential-bache,prudential_bache
+paine webber,paine_webber
+dean witter,dean_witter
+merrill lynch,merrill_lynch
+goldman sachs,goldman_sachs
+morgan stanley,morgan_stanley
+morgan guaranty,morgan_guaranty_trust
+lehman brothers,lehman_brothers
+lehman american,lehman_brothers
+ernst whinney,ernst_and_whinney
+ernst & whinney,ernst_and_whinney
+peat marwick,kpmg
+marsh mclennan,marsh_and_mclennan
+mccormack dodge,mccormack_and_dodge
+coca-cola co.,coca_cola
+credit lyonnais,credit_lyonnais
+rowe & pitman,rowe_and_pitman
+rowe pitman,rowe_and_pitman
+jardine matheson,jardine_matheson
+smith barney,smith_barney
+barney harris,smith_barney
+harris upham,smith_barney
+bear stearns,bear_stearns
+deposit insurance,federal_deposit_insurance_corporation
+federal deposit,federal_deposit_insurance_corporation
+internal revenue,internal_revenue_service
+revenue service,internal_revenue_service
+federal bureau,federal_bureau_of_investigation
+united nations,united_nations
+london interbank,london_interbank_offered_rate
+interbank offered,london_interbank_offered_rate
+american depositary,american_depositary_receipts
+depositary receipts,american_depositary_receipts
+public offering,initial_public_offering
+leveraged buyout,leveraged_buyout
+hongkong bank,hsbc
+hanover trust,hanover_trust
+bank of montreal,bank_of_montreal
+wells fargo,wells_fargo
+bankers trust,bankers_trust
+marine midland,marine_midland_bank
+lloyds bank,lloyds_bank
+general motors,general_motors
+motors corp.,general_motors
+ford motor,ford_motor_company
+hewlett packard,hewlett_packard
+business machines,international_business_machines
+rca corp.,rca
+itt corp.,itt
+telegraph co.,american_telephone_and_telegraph
+british petroleum,british_petroleum
+exxon corp.,exxon
+getty oil,getty_oil
+boeing co.,boeing
+steel corp.,us_steel
+nancy reagan,nancy_reagan
+donald regan,donald_regan
+jimmy carter,jimmy_carter
+paul volcker,paul_volcker
+george shultz,george_shultz
+walter mondale,walter_mondale
+gary hart,gary_hart
+john glenn,john_glenn
+sen. baker,howard_baker
+bob dole,bob_dole
+sen. dole,bob_dole
+sen. cranston,alan_cranston
+deng xiaoping,deng_xiaoping
+mao zedong,mao_zedong
+fidel castro,fidel_castro
+ferdinand marcos,ferdinand_marcos
+ching kuo,chiang_ching_kuo
+mahathir,mahathir_mohamad
+john paul,pope_john_paul_ii
+paul ii,pope_john_paul_ii
+dow jones,dow_jones_industrial_average
+big board,new_york_stock_exchange
+chicago mercantile,chicago_mercantile_exchange
+standard poor,standard_and_poors
+bache securities,bache_securities
+cola co.,coca_cola
+asian wall,asian_wall_street_journal
+united states,united_states
+united kingdom,united_kingdom
+fed,federal_reserve
+bank of china,bank_of_china
+aviation administration,federal_aviation_administration
+wall street journal,wall_street_journal
+wall street,wall_street_journal
+wsj,wall_street_journal
+common market,european_economic_community
+u.s.,united_states
+us,united_states
+u.k.,united_kingdom
+uk,united_kingdom
+fed,federal_reserve
+pboc,peoples_bank_of_china
+boc,bank_of_china
+imf,international_monetary_fund
+sec,securities_and_exchange_commission
+fcc,federal_communications_commission
+faa,federal_aviation_administration
+fda,food_and_drug_administration
+fdic,federal_deposit_insurance_corporation
+irs,internal_revenue_service
+epa,environmental_protection_agency
+cia,central_intelligence_agency
+fbi,federal_bureau_of_investigation
+opec,opec
+nato,north_atlantic_treaty_organization
+afl cio,afl_cio
+eec,european_economic_community
+un,united_nations
+libor,london_interbank_offered_rate
+adr,american_depositary_receipts
+ipo,initial_public_offering
+lbo,leveraged_buyout
+hsbc,hsbc
+gm,general_motors
+ford,ford_motor_company
+hp,hewlett_packard
+ibm,international_business_machines
+dec,digital_equipment_corp
+rca,rca
+itt,itt
+at&t,american_telephone_and_telegraph
+bp,british_petroleum
+exxon,exxon
+arco,atlantic_richfield
+boeing,boeing
+pan am,pan_american_world_airways
+apple,apple_computer
+us steel,us_steel
+j&j,johnson_and_johnson
+reagan,ronald_reagan
+regan,donald_regan
+carter,jimmy_carter
+volcker,paul_volcker
+shultz,george_shultz
+mondale,walter_mondale
+hart,gary_hart
+glenn,john_glenn
+baker,howard_baker
+dole,bob_dole
+moynihan,daniel_patrick_moynihan
+cranston,alan_cranston
+jackson,jesse_jackson
+deng,deng_xiaoping
+mao,mao_zedong
+castro,fidel_castro
+marcos,ferdinand_marcos
+chiang,chiang_ching_kuo
+hu,hu_yaobang
+sihanouk,norodom_sihanouk
+brezhnev,leonid_brezhnev
+chernenko,konstantin_chernenko
+andropov,yuri_andropov
+gorbachev,mikhail_gorbachev
+gromyko,andrei_gromyko
+sakharov,andrei_sakharov
+buhari,muhammadu_buhari
+shagari,shehu_shagari
+qadhafi,muammar_gaddafi
+gaddafi,muammar_gaddafi
+assad,hafez_al_assad
+zhao,zhao_ziyang
+mitterrand,francois_mitterrand
+nixon,richard_nixon
+kissinger,henry_kissinger
+nakasone,yasuhiro_nakasone
+haig,alexander_haig
+papandreou,andreas_papandreou
+berlinguer,enrico_berlinguer
+craxi,bettino_craxi
+deaver,michael_deaver
+nader,ralph_nader
+speakes,larry_speakes
+gemayel,amin_gemayel
+suharto,suharto
+baldrige,malcolm_baldrige
+meese,edwin_meese
+marchais,georges_marchais
+meselson,matthew_meselson
+ruckelshaus,william_ruckelshaus
+rostenkowski,dan_rostenkowski
+bieber,owen_bieber
+lear,norman_lear
+ueberroth,peter_ueberroth
+alfonsin,raul_alfonsin
+brinkley,david_brinkley
+kaufman,henry_kaufman
+mcgroarty,james_t_mcgroarty
+comex,comex
+dow,dow_jones_industrial_average
+nyse,new_york_stock_exchange
+cme,chicago_mercantile_exchange
+nbc,national_broadcasting_company
+cbs,cbs
+abc,abc_news
+s&p,standard_and_poors
+moody's,moodys
+sears,sears_roebuck
+kpmg,kpmg
+coke,coca_cola
+Xi Jinping,xi_jinping
+Li Qiang,li_qiang
+Xie Feng,xie_feng
+Cui Tiankai,cui_tiankai
+Yang Jiechi,yang_jiechi
+Wang Yi,wang_yi
+Hua Chunying,hua_chunying
+Zhao Lijian,zhao_lijian
+Qin Gang,qin_gang
+Wang Huning,wang_huning
+Zhao Leji,zhao_leji
+Ding Xuexiang,ding_xuexiang
+Cai Qi,cai_qi
+Li Xi,li_xi
+Liu He,liu_he
+Han Zheng,han_zheng
+Wang Qishan,wang_qishan
+Hu Jintao,hu_jintao
+Jiang Zemin,jiang_zemin
+Deng Xiaoping,deng_xiaoping
+Mao Zedong,mao_zedong
+Mao Tse-tung,mao_zedong
+Zhou Enlai,zhou_enlai
+Zhu Rongji,zhu_rongji
+Wen Jiabao,wen_jiabao
+Li Keqiang,li_keqiang
+Li Peng,li_peng
+John Lee Ka-chiu,john_lee_ka-chiu
+John Lee,john_lee_ka-chiu
+Carrie Lam,carrie_lam
+Tsai Ing-wen,tsai_ing-wen
+Ma Ying-jeou,ma_ying-jeou
+Dalai Lama,dalai_lama
+Jack Ma,jack_ma
+Ma Yun,jack_ma
+Pony Ma,pony_ma
+Ma Huateng,pony_ma
+Ren Zhengfei,ren_zhengfei
+Meng Wanzhou,meng_wanzhou
+Robin Li,robin_li
+Li Yanhong,robin_li
+Lei Jun,lei_jun
+Zhang Yiming,zhang_yiming
+Colin Huang,colin_huang
+Huang Zheng,colin_huang
+Wang Chuanfu,wang_chuanfu
+Zhong Shanshan,zhong_shanshan
+Hui Ka Yan,hui_ka_yan
+Xu Jiayin,hui_ka_yan
+Pan Gongsheng,pan_gongsheng
+Yi Gang,yi_gang
+Zhou Xiaochuan,zhou_xiaochuan
+Wu Qing,wu_qing
+Yi Huiman,yi_huiman
+Yao Ming,yao_ming
+Eileen Gu,eileen_gu
+Gu Ailing,eileen_gu
+Lang Lang,lang_lang
+Jackie Chan,jackie_chan
+Zhang Yimou,zhang_yimou
+Ang Lee,ang_lee
+People's Bank of China,peoples_bank_of_china
+PBOC,peoples_bank_of_china
+PBoC,peoples_bank_of_china
+China Securities Regulatory Commission,china_securities_regulatory_commission
+CSRC,china_securities_regulatory_commission
+State Administration of Foreign Exchange,state_administration_of_foreign_exchange
+SAFE,state_administration_of_foreign_exchange
+National Development and Reform Commission,national_development_and_reform_commission
+NDRC,national_development_and_reform_commission
+State Council,state_council
+Ministry of Finance,ministry_of_finance
+MOF,ministry_of_finance
+Ministry of Commerce,ministry_of_commerce
+MOFCOM,ministry_of_commerce
+Ministry of Foreign Affairs,ministry_of_foreign_affairs
+MOFA,ministry_of_foreign_affairs
+Chinese Foreign Ministry,ministry_of_foreign_affairs
+Ministry of Industry and Information Technology,ministry_of_industry_and_information_technology
+MIIT,ministry_of_industry_and_information_technology
+Cyberspace Administration of China,cyberspace_administration_of_china
+CAC,cyberspace_administration_of_china
+State-owned Assets Supervision and Administration Commission,state-owned_assets_supervision_and_administration_commission
+SASAC,state-owned_assets_supervision_and_administration_commission
+Chinese Communist Party,chinese_communist_party
+CCP,chinese_communist_party
+Communist Party of China,chinese_communist_party
+CPC,chinese_communist_party
+Communist Party,chinese_communist_party
+National People's Congress,national_peoples_congress
+NPC,national_peoples_congress
+Chinese People's Political Consultative Conference,chinese_peoples_political_consultative_conference
+CPPCC,chinese_peopl's_political_consultative_conference
+People's Liberation Army,peoples_liberation_army
+PLA,peoples_liberation_army
+Chinese military,peoples_liberation_army
+Asian Infrastructure Investment Bank,asian_infrastructure_investment_bank
+AIIB,asian_infrastructure_investment_bank
+Shanghai Cooperation Organization,shanghai_cooperation_organization
+SCO,shanghai_cooperation_organization
+BRICS,brics
+Alibaba,alibaba
+Alibaba Group Holding,alibaba
+Tencent,tencent
+Tencent Holdings,tencent
+Huawei,huawei
+Huawei Investment & Holding,huawei
+ByteDance,bytedance
+Baidu,baidu
+JD.com,jd.com
+Jingdong,jd.com
+Pinduoduo,pinduoduo
+Meituan,meituan
+Xiaomi,xiaomi
+Xiaomi Group,xiaomi
+Ant Group,ant_group
+DJI,dji
+SMIC,smic
+HiSilicon,hisilicon
+Taiwan Semiconductor Manufacturing,taiwan_semiconductor_manufacturing
+TSMC,taiwan_semiconductor_manufacturing
+Foxconn,foxconn
+Hon Hai Precision Industry,foxconn
+BYD,byd
+BYD Company,byd
+NIO,nio
+Li Auto,li_auto
+XPeng,xpeng
+Geely,geely
+Zhejiang Geely Holding Group,geely
+CATL,catl
+Contemporary Amperex Technology,catl
+Evergrande,evergrande
+Evergrande Group,evergrande
+Country Garden,country_garden
+Country Garden Holdings,country_garden
+Vanke,vanke
+Sunac,sunac
+Wanda,wanda
+Wanda Group,wanda
+Zhongzhi,zhongzhi
+Zhongzhi Enterprise Group,zhongzhi
+Huarong,huarong
+China Huarong,huarong
+Industrial & Commercial Bank of China,industrial_&_commercial_bank_of_china
+ICBC,industrial_&_commercial_bank_of_china
+China Construction Bank,china_construction_bank
+CCB,china_construction_bank
+Agricultural Bank of China,agricultural_bank_of_china
+ABC,agricultural_bank_of_china
+Bank of China,bank_of_china
+Ping An,ping_an
+Ping An Insurance,ping_an
+CITIC Group,citic_group
+CITIC,citic_group
+CNOOC,cnooc
+China National Offshore Oil Corporation,cnooc
+Sinopec,sinopec
+Sinopec Group,sinopec
+PetroChina,petrochina
+China National Petroleum,petrochina
+CNPC,petrochina
+Kweichow Moutai,kweichow_moutai
+Moutai,kweichow_moutai
+Shein,shein
+Temu,temu
+Xinhua,xinhua
+Xinhua News Agency,xinhua
+People's Daily,peoples_daily
+China Daily,china_daily
+China,china
+PRC,china
+People's Republic of China,china
+Mainland China,china
+Chinese economy,chinese_economy
+US-China relations,us-china_relations
+U.S.-China relations,us-china_relations
+Sino-US relations,us-china_relations
+China-US relations,us-china_relations
+Belt and Road Initiative,belt_and_road_initiative
+BRI,belt_and_road_initiative
+Belt and Road,belt_and_road_initiative
+One Belt One Road,belt_and_road_initiative
+Renminbi,renminbi
+RMB,renminbi
+Yuan,renminbi
+A-shares,a-shares
+H-shares,h-shares
+ADRs,adrs
+American Depositary Receipts,adrs
+common prosperity,common_prosperity
+dual circulation,dual_circulation
+Reform and Opening Up,reform_and_opening_up
+Five-Year Plan,five-year_plan
+property crisis,property_crisis
+real estate crisis,property_crisis
+local government debt,local_government_debt
+LGFV,lgfv
+local government financing vehicle,lgfv
+shadow banking,shadow_banking
+chip ban,chip_ban
+US-China trade war,us-china_trade_war
+U.S.-China trade war,us-china_trade_war
+One-China policy,one-china_policy
+One China policy,one-china_policy
+"One country, two systems","one_country,_two_systems"
+One country+two systems,"one_country,_two_systems"
+Cross-strait relations,cross-strait_relations
+South China Sea,south_china_sea
+Taiwan Strait,taiwan_strait
+Hong Kong,hong_kong
+Hongkong,hong_kong
+Macau,macau
+Macao,macau
+Taiwan,taiwan
+Beijing,beijing
+Peking,beijing
+Shanghai,shanghai
+Shenzhen,shenzhen
+Guangzhou,guangzhou
+Xinjiang,xinjiang
+Xinjiang Uyghur Autonomous Region,xinjiang
+Tibet,tibet
+Tibet Autonomous Region,tibet
+Wuhan,wuhan
+dynamic zero-COVID,dynamic_zero-covid
+zero-COVID,dynamic_zero-covid
+one-child policy,one-child_policy
+One-Child Policy,one-child_policy
+hukou,hukou
+gaokao,gaokao
+lying flat,lying_flat
+tang ping,lying_flat
+involution,involution
+Great Firewall,great_firewall
+Socialism with Chinese characteristics,socialism_with_chinese_characteristics
+Chinese Dream,chinese_dream
+SOE,soe
+state-owned enterprise,soe
+Cultural Revolution,cultural_revolution
+Tiananmen Square,tiananmen_square
+Forbidden City,forbidden_city
+Great Wall,great_wall
+Great Wall of China,great_wall
+Spring Festival,spring_festival
+Chinese New Year,spring_festival
+Lunar New Year,spring_festival
+Confucius Institute,confucius_institute
+WeChat,wechat
+TikTok,tiktok
+Alipay,alipay
+Wolf Warrior diplomacy,wolf_warrior_diplomacy
+Hisense,hisense
+TCL,tcl
+TCL Technology,tcl
+Midea,midea
+Midea Group,midea
+Gree,gree
+Gree Electric,gree
+Haier,haier
+Haier Group,haier
+iFlytek,iflytek
+Kingsoft,kingsoft
+360 Security,360_security
+NetEase,netease
+miHoYo,mihoyo
+China Mobile,china_mobile
+China Mobile Communications,china_mobile
+China Unicom,china_unicom
+China United Network Communications,china_unicom
+China Telecom,china_telecom
+China Telecommunications,china_telecom
+SAIC Motor,saic_motor
+SAIC,saic_motor
+FAW Group,faw_group
+First Automobile Works,faw_group
+Dongfeng Motor,dongfeng_motor
+GAC Group,gac_group
+Guangzhou Automobile Group,gac_group
+Great Wall Motor,great_wall_motor
+GWM,great_wall_motor
+SANY,sany
+Bank of Communications,bank_of_communications
+China Merchants Bank,china_merchants_bank
+CICC,cicc
+China International Capital Corporation,cicc
+China Life,china_life
+China Life Insurance,china_life
+CSCEC,cscec
+China State Construction Engineering Corp,cscec
+Luckin Coffee,luckin_coffee
+Haidilao,haidilao
+Air China,air_china
+China Southern Airlines,china_southern_airlines
+China Eastern Airlines,china_eastern_airlines
+SF Express,sf_express
+SF Holding,sf_express
+Yili,yili
+HSBC Holdings,hsbc_holdings
+HSBC,hsbc_holdings
+Lenovo,lenovo
+Lenovo Group,lenovo
+COSCO,cosco
+China COSCO Shipping,cosco
+Yum China Holdings,yum_china_holdings
+Hebei,hebei
+Shanxi,shanxi
+Liaoning,liaoning
+Jilin,jilin
+Heilongjiang,heilongjiang
+Jiangsu,jiangsu
+Zhejiang,zhejiang
+Anhui,anhui
+Fujian,fujian
+Jiangxi,jiangxi
+Shandong,shandong
+Henan,henan
+Hubei,hubei
+Hunan,hunan
+Guangdong,guangdong
+Hainan,hainan
+Sichuan,sichuan
+Guizhou,guizhou
+Yunnan,yunnan
+Shaanxi,shaanxi
+Gansu,gansu
+Qinghai,qinghai
+Inner Mongolia Autonomous Region,inner_mongolia_autonomous_region
+Inner Mongolia,inner_mongolia_autonomous_region
+Guangxi Zhuang Autonomous Region,guangxi_zhuang_autonomous_region
+Guangxi,guangxi_zhuang_autonomous_region
+Ningxia Hui Autonomous Region,ningxia_hui_autonomous_region
+Ningxia,ningxia_hui_autonomous_region
+Tianjin,tianjin
+Chongqing,chongqing
+Hangzhou,hangzhou
+Nanjing,nanjing
+Chengdu,chengdu
+Suzhou,suzhou
+Yangtze River,yangtze_river
+Yellow River,yellow_river
+Three Gorges Dam,three_gorges_dam
+Confucianism,confucianism
+Confucius,confucius
+Yin Yang,yin_yang
+Sun Wukong,sun_wukong
+Monkey King,sun_wukong
+Guan Yu,guan_yu
+God of War,guan_yu
+Pangu,pangu
+Nuwa,nuwa
+Fuxi,fuxi
+Shennong,shennong
+Yellow Emperor,yellow_emperor
+Huangdi,yellow_emperor
+Jade Emperor,jade_emperor
+Tang Sanzang,tang_sanzang
+Zhu Bajie,zhu_bajie
+Pigsy,zhu_bajie
+Nezha,nezha
+Chang'e,chang'e
+Hou Yi,hou_yi
+Panda,panda
+Giant Panda,panda
+Dongfeng,dongfeng
+DF,dongfeng
+DF-41,df-41
+DF-21D,df-21d
+hypersonic missile,hypersonic_missile
+hypersonic glide vehicle,hypersonic_missile
+HGV,hypersonic_missile
+J-20,j-20
+Mighty Dragon,j-20
+Type 055,type_055
+Tiangong space station,tiangong_space_station
+Tiangong,tiangong_space_station
+Long March,long_march
+Chang Zheng,long_march
+Shenzhou,shenzhou
+Tianwen,tianwen
+Zhurong,zhurong
+Yutu,yutu
+Jade Rabbit,yutu
+China National Space Administration,china_national_space_administration
+CNSA,china_national_space_administration
+Wenchang,wenchang
+Wenchang Space Launch Site,wenchang
+Jiuquan,jiuquan
+Jiuquan Satellite Launch Center,jiuquan
+BeiDou,beidou
+BDS,beidou
+BeiDou Navigation Satellite System,beidou
+Gaofen,gaofen
+Yaogan,yaogan
